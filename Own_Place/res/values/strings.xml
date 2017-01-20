@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Own_Place</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="_medium">Medium</string>
+	<string name="_hard">Hard</string>
+	<string name="_impossible">Impossible</string>
+	<string name="_easy">Easy</string>
+</resources>
